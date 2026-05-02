@@ -1,0 +1,11 @@
+# dependencies
+node_modules/
+.next/
+
+# env files - never commit these
+.env
+.env.local
+.env.production
+
+# debug
+npm-debug.log*
